@@ -3,4 +3,6 @@
 	phpinfo();
 	$a = 'abc';
 	var_export($a);
+	print_r("add another row!");
+	print_r("once more!");
 ?>
