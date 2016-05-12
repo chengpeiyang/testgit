@@ -1,8 +1,5 @@
 test 123
 test 456
 test 789
-<<<<<<< Updated upstream
 insert 1
-=======
 test 101112
->>>>>>> Stashed changes
